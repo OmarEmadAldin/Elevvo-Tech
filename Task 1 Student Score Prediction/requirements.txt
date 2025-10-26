@@ -1,0 +1,13 @@
+# Core Libraries
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+
+# Jupyter Environment
+notebook
+ipykernel
+
+# (Optional) Visualization enhancements
+plotly
