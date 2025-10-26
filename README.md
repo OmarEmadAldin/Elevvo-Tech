@@ -5,17 +5,6 @@ This repository contains a collection of **Machine Learning mini-projects** cove
 
 Each task demonstrates a practical application of ML concepts with end-to-end implementation: data preprocessing, model training, evaluation, and visualization.
 
----
-
-## 📚 Table of Contents
-
-1. [Overview](#overview)  
-2. [Tasks Summary](#tasks-summary)  
-3. [Tools and Libraries](#tools-and-libraries)  
-4. [Repository Structure](#repository-structure)  
-5. [How to Use](#how-to-use)  
-6. [Future Improvements](#future-improvements)  
-7. [License](#license)
 
 ---
 
@@ -161,20 +150,6 @@ jupyter
 ```
 
 ---
-
-## 🧠 Example Architecture (Traffic Sign Recognition)
-
-![Custom CNN](Custom_CNN.png)
-
----
-
-## 🧑‍💻 Author
-
-**Omar Ben Emad**  
-Machine Learning Enthusiast | Computer Vision & AI Developer  
-
----
-
 ## 📜 License
 
 This repository is open-source and available under the **MIT License**.
