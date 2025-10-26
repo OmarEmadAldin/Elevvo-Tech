@@ -1,5 +1,5 @@
 # GTZAN Genre Classification — Librosa + Random Forest
-
+# **First you have to run the code on kaggle and use the dataset there or download it locally**
 This repository contains an enhanced Jupyter notebook that extracts audio features using **librosa**, trains a **Random Forest** classifier with hyperparameter tuning (GridSearchCV), and evaluates the model.
 
 ## Files
