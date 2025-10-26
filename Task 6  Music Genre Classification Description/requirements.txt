@@ -1,0 +1,8 @@
+numpy>=1.25
+pandas>=2.2
+scikit-learn>=1.2
+matplotlib>=3.7
+librosa>=0.10
+soundfile>=0.12
+joblib>=1.2
+jupyterlab>=4.0
