@@ -1,0 +1,14 @@
+
+# Core dependencies
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+
+# Model-specific libraries
+xgboost
+joblib
+
+# Jupyter environment
+ipykernel
